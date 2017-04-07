@@ -1,0 +1,260 @@
+Index
+Cofactor of a matrix, 62
+Comaximal ideals, 108, 120
+Commutative ring, 37
+Complex numbers, 1, 40, 46, 47, 97, 104
+Conjugate, 64
+Conjugation by a unit, 44
+Contravariant functor, 131
+Coproduct or sum of modules, 76
+Coset, 24, 42, 74
+Cycle, 32
+Cyclic
+group, 23
+module, 107
+
+Abelian group, 20, 71
+Algebraically closed field, 46, 97
+Alternating group, 32
+Ascending chain condition, 112
+Associate elements in a domain, 47, 109
+Automorphism
+of groups, 29
+of modules, 70
+of rings, 43
+Axiom of choice, 10
+Basis or free basis
+canonical or standard for Rn , 72, 79
+of a module, 78, 83
+Bijective or one-to-one correspondence,7
+Binary operation, 19
+Boolean algebras, 52
+Boolean rings, 51
+
+Determinant
+of a homomorphism, 85
+of a matrix, 60, 128
+Diagonal matrix, 56
+Dimension of a free module, 83
+Division algorithm, 45
+Domain
+euclidean, 116
+integral domain, 39
+of a function, 5
+principal ideal, 46
+unique factorization, 111
+Dual basis, 132
+Dual spaces, 130
+
+Cancellation law
+in a group, 20
+in a ring, 39
+Cartesian product, 2, 11
+Cayley’s theorem, 31
+Cayley-Hamilton theorem, 66, 98, 125
+Center of group, 22
+Change of basis, 83
+Characteristic of a ring, 50
+Characteristic polynomial
+of a homomorphism, 85, 95
+of a matrix, 66
+Chinese remainder theorem, 50, 108
+Classical adjoint of a matrix, 63
+
+Eigenvalues, 95
+Eigenvectors, 95
+Elementary divisors, 119, 120
+Elementary matrices, 58
+135
+
+136
+Elementary operations, 57, 122
+Endomorphism of a module, 70
+Equivalence class, 4
+Equivalence relation, 4
+Euclidean algorithm, 14
+Euclidean domain, 116
+Evaluation map, 47, 49
+Even permutation, 32
+Exponential of a matrix, 106
+Factorization domain (FD), 111
+Fermat’s little theorem, 50
+Field, 39
+Formal power series, 113
+Fourier series, 100
+Free basis, 72, 78, 79, 83
+Free R-module, 78
+Function or map, 6
+bijective, 7
+injective, 7
+surjective, 7
+Function space Y T
+as a group, 22, 36
+as a module, 69
+as a ring, 44
+as a set, 12
+Fundamental theorem of algebra, 46
+Gauss, 113
+General linear group GLn (R), 55
+Generating sequence in a module, 78
+Generators of Zn , 40
+Geometry of determinant, 90
+Gram-Schmidt orthonormalization, 100
+Graph of a function, 6
+Greatest common divisor, 15
+Group, 19
+abelian, 20
+additive, 20
+cyclic, 23
+
+Index
+multiplicative, 19
+symmetric, 31
+Hausdorff maximality principle, 3, 87, 109
+Hilbert, 113
+Homogeneous equation, 60
+Homormophism
+of groups, 23
+of rings, 42
+of modules, 69
+Homomorphism of quotient
+group, 29
+module, 74
+ring, 44
+Ideal
+left, 41
+maximal, 109
+of a ring, 41
+prime, 109
+principal, 42, 46
+right, 41
+Idempotent element in a ring, 49, 51
+Image of a function, 7
+Independent sequence in a module, 78
+Index of a subgroup, 25
+Index set, 2
+Induction, 13
+Injective or one-to-one, 7, 79
+Inner product spaces, 98
+Integers mod n, 27, 40
+Integers, 1, 14
+Invariant factors, 119
+Inverse image, 7
+Invertible or non-singular matrix, 55
+Irreducible element, 47, 110
+Isometries of a square, 26, 34
+Isometry, 101
+Isomorphism
+
+137
+
+Index
+of groups, 29
+of modules, 70
+of rings, 43
+Jacobian matrix, 91
+Jordan block, 96, 123
+Jordan canonical form, 96, 123, 125
+Kernel, 28, 43, 70
+Least common multiple, 17, 18
+Linear combination, 78
+Linear ordering, 3
+Linear transformation, 85
+Matrix
+elementary, 58
+invertible, 55
+representing a linear transformation, 84
+triangular, 56
+Maximal
+ideal, 109
+independent sequence, 86, 87
+monotonic subcollection, 4
+subgroup, 114
+Minimal polynomial, 127
+Minor of a matrix, 62
+Module over a ring, 68
+Monomial, 48
+Monotonic collection of sets, 4
+Multilinear forms, 129
+Multiplicative group of a finite field, 121
+Nilpotent
+element, 56
+homomorphism, 93
+Noetherian ring, 112
+Normal subgroup, 26
+Odd permutation, 32
+Onto or surjective, 7, 79
+
+Order of an element or group, 23
+Orthogonal group O(n), 102
+Orthogonal vectors, 99
+Orthonormal sequence, 99
+Partial ordering, 3
+Partition of a set, 5
+Permutation, 31
+Pigeonhole principle, 8, 39
+Polynomial ring, 45
+Power set, 12
+Prime
+element, 110
+ideal, 109
+integer, 16
+Principal ideal domain (PID), 46
+Principal ideal, 42
+Product
+of groups, 34, 35
+of modules, 75
+of rings, 49
+of sets, 2, 11
+Projection maps, 11
+Quotient group, 27
+Quotient module, 74
+Quotient ring, 42
+Range of a function, 6
+Rank of a matrix, 59, 89
+Rational canonical form, 107, 125
+Relation, 3
+Relatively prime
+integers, 16
+elements in a PID, 119
+Right and left inverses of functions, 10
+Ring, 38
+Root of a polynomial, 46
+Row echelon form, 59
+Scalar matrix, 57
+
+138
+Scalar multiplication, 21, 38, 54, 71
+Self adjoint, 103, 105
+Short exact sequence, 115
+Sign of a permutation, 60
+Similar matrices, 64
+Solutions of equations, 9, 59, 81
+Splitting map, 114
+Standard basis for Rn , 72, 79
+Strips (horizontal and vertical), 8
+Subgroup, 14, 21
+Submodule, 69
+Subring, 41
+Summand of a module, 77, 115
+Surjective or onto, 7, 79
+Symmetric groups, 31
+Symmetric matrix, 103
+Torsion element of a module, 121
+Trace
+of a homormophism, 85
+of a matrix, 65
+Transpose of a matrix, 56, 103, 132
+Transposition, 32
+Unique factorization
+in principal ideal domains, 113
+of integers, 16
+Unique factorization domain (UFD), 111
+Unit in a ring, 38
+Vector space, 67, 85
+Volume preserving homomorphism, 90
+Zero divisor in a ring, 39
+
+Index
+
+
